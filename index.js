@@ -38,6 +38,9 @@ fetch("data.json")
     })
 
 
+    // hello
+
+
     const filterButtons = document.querySelectorAll("#regions button")
 
    filterButtons.forEach(btn=>{
